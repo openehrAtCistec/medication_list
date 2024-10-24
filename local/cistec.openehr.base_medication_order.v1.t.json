@@ -19,7 +19,7 @@
       "original_namespace" : "org.openehr",
       "original_publisher" : "openEHR Foundation",
       "custodian_namespace" : "org.openehr",
-      "MD5-CAM-1.0.1" : "769937e57cebe1420b3eccedf0b05108",
+      "MD5-CAM-1.0.1" : "be889cc210eca62e8824d6651e322342",
       "PARENT:MD5-CAM-1.0.1" : "F116C050DE9CF44A61E064FEEA0494DE",
       "sem_ver" : "1.0.0",
       "build_uid" : ""
@@ -1550,12 +1550,6 @@
             "text" : "*(Synthesized) (en)",
             "code" : "ac0.2",
             "description" : ""
-          },
-          "at0000.1" : {
-            "@type" : "ARCHETYPE_TERM",
-            "code" : "at0000.1",
-            "text" : "Medikament",
-            "description" : "Angaben über ein Arzneimittel oder eine Arzneimittelkomponente, einschließlich der Wirkstärke, der Darreichungsform und Informationen über spezifische Bestandteile."
           }
         },
         "nl" : {
@@ -12261,7 +12255,7 @@
           "at0000.1" : {
             "@type" : "ARCHETYPE_TERM",
             "code" : "at0000.1",
-            "text" : "Schema",
+            "text" : "MoMiAbNa",
             "description" : "Strukturierte Informationen über eine einzelne therapeutische Anweisung / Anleitung für eine verordnete Einheit, wie z. B. eine Medikamenten- oder Bluttransfusionsverordnung."
           },
           "at0179.1" : {
